@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/th/.vim1'
+let g:netrw_dirhist_2='/home/th/.subversion'
+let g:netrw_dirhist_3='/home/th/.subversion/auth/svn.username'
+let g:netrw_dirhist_4='/home/th/SENG462/b130-htdocs'
+let g:netrw_dirhist_5='/scratch/g1/local/workload-generator'
+let g:netrw_dirhist_6='/scratch/g1/transanctionLogs'
